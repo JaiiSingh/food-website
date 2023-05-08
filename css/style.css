@@ -1,3 +1,57 @@
 .logo-img{
     max-width: 5.5em;
 }
+.my-menu-btn{
+    padding: 0px;
+    border: none;
+}
+.my-menu-btn:focus{
+    box-shadow: none;
+}
+.bi{
+    margin-right: .2em;
+    color: white;
+    font-size: 1.2em;
+}
+#my-menu{
+    width: 20%;
+    position: absolute;
+    right: 0px;
+    background-color: rgb(184, 46, 53) ;
+    color: white;
+}
+#my-menu a{
+  font-size: .75em;
+
+}
+#home{
+    background-image: url(/images/B1-Background.jpg);
+    background-repeat: no-repeat;
+   background-position: bottom;
+   background-size: cover;
+}
+
+.b1{
+    background-color: rgba(232, 86, 93, 0.445);
+    color: white;
+    text-align: center;
+}
+.b1 p{
+    width: 70%;
+    margin: 0 auto;
+}
+.home-tittle-1{
+    padding-top: 30px;
+    font-size: 3.5em;
+    font-family: 'Grand Hotel', cursive;
+}
+.home-tittle-des{
+    font-size: .7em;
+    font-family: 'Lato', sans-serif;
+}
+.b1 button{
+    color:  rgba(232, 86, 93, 0.945);
+    font-weight: 500;
+    margin-top: 20px;
+    padding: 0 20px;
+}

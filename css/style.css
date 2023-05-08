@@ -25,14 +25,13 @@
 
 }
 #home{
-    background-image: url(/images/B1-Background.jpg);
     background-repeat: no-repeat;
    background-position: bottom;
    background-size: cover;
 }
 
 .b1{
-    /* background-color: rgba(232, 86, 93, 0.445); */
+    background-color: rgba(232, 86, 93, 0.445);
     color: white;
     text-align: center;
 }
